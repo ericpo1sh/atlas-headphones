@@ -13,6 +13,8 @@ Implement a web design from scratch
   * Website is running on plain HTML/CSS. No package downloads required!
   * Design created from a mobile view first, then desktop view implemented.
 ## How to try it out! 🧪
+### [Click Me To Try!](https://ericpo1sh.github.io/atlas-headphones/)
+## OR
 ### Run the following command into your terminal to clone the repository.
 ```
 git clone https://github.com/ericpo1sh/atlas-headphones
