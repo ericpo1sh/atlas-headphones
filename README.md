@@ -19,4 +19,4 @@ Implement a web design from scratch
 ```
 git clone https://github.com/ericpo1sh/atlas-headphones
 ```
-#### Then go to the cloned folder and open 4-index.html, enjoy!
+#### Then go to the cloned folder and open 4-index.html, enjoy it!
